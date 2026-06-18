@@ -1,0 +1,8 @@
+*.el
+*.hex
+*.elf
+applet/
+.build/
+build/
+.arduino/
+compile_commands.json
